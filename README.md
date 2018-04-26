@@ -46,6 +46,10 @@ Burger logger application with MySQL, Node, Express, Handlebars and a homemade O
         └── main.handlebars
 ```
 
+## Screenshot
+
+![alt text](https://github.com/JustinGolshir/burger/blob/master/public/assets/images/BurgerApp.png "Burger App")
+
 ## Demo
 
 The demo of the burger eating application can be found [here](https://burger-justgo.herokuapp.com/).
